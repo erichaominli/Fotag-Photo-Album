@@ -12,3 +12,8 @@ JAVA version: 10.0.1
 1.Click the same star to clear the filter and rating: 
 2.Click close button to exit 
 
+# Screen shots
+![screenshot](fotag1.png)
+![screenshot](fotag2.png)
+![screenshot](fotag3.png)
+
